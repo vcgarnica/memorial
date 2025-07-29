@@ -10,7 +10,7 @@ A estrutura e os códigos foram adaptados à minha realidade acadêmica, preserv
 
 Esse documento está em constante aprimoramento. A versão abaixo foi utilizada no concurso:
 
-* **2025** (acesso: [Edital](https://uspdigital.usp.br/gr/admissao):
+* **2025** ([doi:](https://doi.org/10.6084/m9.figshare.29669729.v1).
   Utilizado no concurso de títulos e provas para obtenção do título de Professor Doutor
   junto ao Departamento de Fitopatologia e Nematologia da Escola Superior de Agricultura Luiz de Queiroz,
   Universidade de São Paulo (Edital ESALQ/USP/ATAC N/52-2025).
